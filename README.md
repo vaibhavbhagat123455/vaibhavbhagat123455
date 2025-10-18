@@ -12,7 +12,7 @@ I am passionate about **Artificial Intelligence, Android Development, and Full-S
 
 <!-- Social Media Links -->
 <p style="margin-top: 20px;">
-  <a href="https://www.linkedin.com/in/vaibhav-bhagat-a5a11937a/" target="_blank" style="margin: 0 10px;">
+  <a href="https://www.linkedin.com/in/vaibhav-bhagat-545600346/" target="_blank" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/vaibhav_bhagat_9545/" target="_blank" style="margin: 0 10px;">
