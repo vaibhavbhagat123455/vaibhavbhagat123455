@@ -10,7 +10,6 @@ I am passionate about **Artificial Intelligence, Android Development, and Full-S
 
 ## 🌐 Socials:
 
-<!-- Social Media Links -->
 <p style="margin-top: 20px;">
   <a href="https://www.linkedin.com/in/vaibhav-bhagat-545600346/" target="_blank" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -70,10 +69,7 @@ I am passionate about **Artificial Intelligence, Android Development, and Full-S
 ## 📂 Top Contributed Repositories
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavbhagat123455&layout=compact&theme=radical" alt="Top Languages"/>
+  <a href="https://github.com/vaibhavbhagat123455/instagram-mern" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavbhagat123455&repo=instagram-mern&theme=radical" alt="Instagram MERN"/>
+  </a>
 </p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavbhagat123455&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Top Repos"/>
-</p>
-
