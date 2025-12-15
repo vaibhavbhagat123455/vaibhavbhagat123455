@@ -52,7 +52,11 @@ I am passionate about **Artificial Intelligence, Android Development, and Full-S
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Ionic-%234865F2?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic" />
-   <img src="https://img.shields.io/badge/Supabase-%2345B47E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Supabase-%2345B47E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script"/>
+
+
 </p>
 
 ## 📊 GitHub Stats
